@@ -55,6 +55,6 @@ Output: "tpircsavaJ"
 
 ## 🔗 View Demo
 
-[Click here to open the demo]  (https://abhishekdevelops.github.io/Reverse-A-String)
+[Click here to open the demo](https://abhishekdevelops.github.io/Reverse-A-String)
 
 > ✅ After opening the demo, right-click anywhere → choose **"Inspect"** → go to the **Console tab** to view the reversed string.
